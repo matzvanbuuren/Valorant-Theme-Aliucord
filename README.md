@@ -1,1 +1,1 @@
-<a href="https://icons8.com/icon/Wm9BpxflIpY0/valorant"></a>
+<img src="https://img.icons8.com/nolan/64/valorant.png"/>
